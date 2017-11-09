@@ -1,1 +1,1 @@
-include ':app', ':library'
+include ':app', ':baseauth', ':weixinauth', ':facebookauth', ':instagramauth', ':lineauth', ':googleauth', ':twitterauth', ':linkedinauth', ':qqoauth'
